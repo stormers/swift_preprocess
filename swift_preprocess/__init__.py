@@ -1,0 +1,1 @@
+from swift_preprocess.middleware import filter_factory
